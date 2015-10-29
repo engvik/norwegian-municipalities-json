@@ -1,7 +1,10 @@
 # norwegian-municipalities-json
 JSON of Norwegian municipalities.
 
-Fetched from [Wikipedia](https://no.wikipedia.org/wiki/Norges_kommuner).
+### Disclaimer
+
+The data are parsed from [Wikipedia](https://no.wikipedia.org/wiki/Norges_kommuner) and may not be up to date.
+
 Last update: 2015-10-29.
 
 ## Normal version
