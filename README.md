@@ -5,7 +5,7 @@ JSON of Norwegian municipalities.
 
 The data are parsed from [Wikipedia](https://no.wikipedia.org/wiki/Norges_kommuner) and may not be up to date.
 
-Last update: 2015-10-29.
+Last update: 2016-02-02.
 
 ## Normal version
 Contains municipality and county.
