@@ -553,8 +553,8 @@
         "population": "5580",
         "area": "187963",
         "languageForm": "Nøytral",
-        "mayor": "Bersvend Salbu",
-        "politicalParty": "SV",
+        "mayor": "Merete Myhre Moen",
+        "politicalParty": "Sp",
         "name": "Tynset"
       },
       {
@@ -729,7 +729,7 @@
         "population": "6629",
         "area": "22574",
         "languageForm": "Bokmål",
-        "mayor": "Hilde Brørby Fivelsdal",
+        "mayor": "Lars Magnussen",
         "politicalParty": "Ap",
         "name": "Jevnaker"
       },
@@ -1343,8 +1343,8 @@
         "population": "44313",
         "area": "27000",
         "languageForm": "Bokmål",
-        "mayor": "Einar Halvorsen",
-        "politicalParty": "Høyre",
+        "mayor": "Robert Cornels Nordli",
+        "politicalParty": "Arbeiderpartiet",
         "name": "Arendal"
       },
       {
@@ -2382,7 +2382,7 @@
     "municipalities": [
       {
         "number": "1502",
-        "population": "26048",
+        "population": "26732",
         "area": "36300",
         "languageForm": "Nøytral",
         "mayor": "Torgeir Dahl",
@@ -2391,7 +2391,7 @@
       },
       {
         "number": "1504",
-        "population": "45747",
+        "population": "46747",
         "area": "9848",
         "languageForm": "Nøytral",
         "mayor": "Bjørn Tømmerdal",
@@ -2400,7 +2400,7 @@
       },
       {
         "number": "1505",
-        "population": "24395",
+        "population": "24526",
         "area": "8746",
         "languageForm": "Bokmål[9]",
         "mayor": "Per Kristian Øyen",
@@ -2409,7 +2409,7 @@
       },
       {
         "number": "1511",
-        "population": "3302",
+        "population": "3256",
         "area": "38519",
         "languageForm": "Nynorsk",
         "mayor": "Jan Helgøy",
@@ -2418,7 +2418,7 @@
       },
       {
         "number": "1514",
-        "population": "2636",
+        "population": "2559",
         "area": "9314",
         "languageForm": "Nynorsk",
         "mayor": "Dag Vaagen",
@@ -2427,7 +2427,7 @@
       },
       {
         "number": "1515",
-        "population": "8847",
+        "population": "8972",
         "area": "11977",
         "languageForm": "Nynorsk",
         "mayor": "Arnulf Goksøyr",
@@ -2436,7 +2436,7 @@
       },
       {
         "number": "1516",
-        "population": "26732",
+        "population": "8430",
         "area": "9730",
         "languageForm": "Nynorsk",
         "mayor": "Jan Berset",
@@ -2445,7 +2445,7 @@
       },
       {
         "number": "1517",
-        "population": "46747",
+        "population": "5189",
         "area": "8250",
         "languageForm": "Nynorsk",
         "mayor": "Anders Riise",
@@ -2454,7 +2454,7 @@
       },
       {
         "number": "1519",
-        "population": "24526",
+        "population": "9037",
         "area": "54724",
         "languageForm": "Nynorsk",
         "mayor": "Arild Iversen",
@@ -2463,7 +2463,7 @@
       },
       {
         "number": "1520",
-        "population": "3256",
+        "population": "10677",
         "area": "80479",
         "languageForm": "Nynorsk",
         "mayor": "Rune Hovde",
@@ -2472,7 +2472,7 @@
       },
       {
         "number": "1523",
-        "population": "2559",
+        "population": "2310",
         "area": "13230",
         "languageForm": "Nynorsk",
         "mayor": "Thorbjørn Fylling",
@@ -2481,7 +2481,7 @@
       },
       {
         "number": "1524",
-        "population": "8972",
+        "population": "1652",
         "area": "94354",
         "languageForm": "Nynorsk",
         "mayor": "Bjørn Inge Ruset",
@@ -2490,7 +2490,7 @@
       },
       {
         "number": "1525",
-        "population": "8430",
+        "population": "4598",
         "area": "86608",
         "languageForm": "Nynorsk",
         "mayor": "Jan Ove Tryggestad",
@@ -2499,7 +2499,7 @@
       },
       {
         "number": "1526",
-        "population": "5189",
+        "population": "1020",
         "area": "24705",
         "languageForm": "Nynorsk",
         "mayor": "Charles Tøsse",
@@ -2508,7 +2508,7 @@
       },
       {
         "number": "1528",
-        "population": "9037",
+        "population": "7675",
         "area": "33771",
         "languageForm": "Nynorsk",
         "mayor": "Petter Lyshol",
@@ -2517,7 +2517,7 @@
       },
       {
         "number": "1529",
-        "population": "10677",
+        "population": "4620",
         "area": "12028",
         "languageForm": "Nynorsk",
         "mayor": "Terje Vadset",
@@ -2526,7 +2526,7 @@
       },
       {
         "number": "1531",
-        "population": "2310",
+        "population": "8952",
         "area": "5867",
         "languageForm": "Nynorsk",
         "mayor": "Geir Ove Vegsund",
@@ -2535,7 +2535,7 @@
       },
       {
         "number": "1532",
-        "population": "1652",
+        "population": "8094",
         "area": "4011",
         "languageForm": "Nynorsk",
         "mayor": "Knut Støbakk",
@@ -2544,7 +2544,7 @@
       },
       {
         "number": "1534",
-        "population": "4598",
+        "population": "9200",
         "area": "26051",
         "languageForm": "Nynorsk",
         "mayor": "Bjørn Sandnes",
@@ -2553,7 +2553,7 @@
       },
       {
         "number": "1535",
-        "population": "1020",
+        "population": "6611",
         "area": "35208",
         "languageForm": "Nynorsk",
         "mayor": "Geir Inge Lien",
@@ -2562,7 +2562,7 @@
       },
       {
         "number": "1539",
-        "population": "7675",
+        "population": "7492",
         "area": "150237",
         "languageForm": "Nøytral",
         "mayor": "Lars Olav Hustad",
@@ -2571,7 +2571,7 @@
       },
       {
         "number": "1543",
-        "population": "4620",
+        "population": "2970",
         "area": "104603",
         "languageForm": "Nynorsk",
         "mayor": "Rolf Jonas Hurlen",
@@ -2580,7 +2580,7 @@
       },
       {
         "number": "1545",
-        "population": "8952",
+        "population": "2088",
         "area": "9474",
         "languageForm": "Nynorsk",
         "mayor": "Einar Øien",
@@ -2589,7 +2589,7 @@
       },
       {
         "number": "1546",
-        "population": "8094",
+        "population": "1270",
         "area": "2043",
         "languageForm": "Nynorsk",
         "mayor": "Hans Endre Sæterøy",
@@ -2598,7 +2598,7 @@
       },
       {
         "number": "1547",
-        "population": "9200",
+        "population": "3518",
         "area": "5887",
         "languageForm": "Nynorsk",
         "mayor": "Bernhard Riksfjord",
@@ -2607,7 +2607,7 @@
       },
       {
         "number": "1548",
-        "population": "6611",
+        "population": "9717",
         "area": "36945",
         "languageForm": "Nynorsk",
         "mayor": "Nils Johan Gjendem",
@@ -2616,7 +2616,7 @@
       },
       {
         "number": "1551",
-        "population": "7492",
+        "population": "3467",
         "area": "15208",
         "languageForm": "Bokmål",
         "mayor": "Ove Silseth",
@@ -2625,7 +2625,7 @@
       },
       {
         "number": "1554",
-        "population": "2970",
+        "population": "5826",
         "area": "17594",
         "languageForm": "Nøytral",
         "mayor": "Ann Kristin Sørvik",
@@ -2634,7 +2634,7 @@
       },
       {
         "number": "1557",
-        "population": "2088",
+        "population": "2593",
         "area": "38196",
         "languageForm": "Nøytral",
         "mayor": "Odd Steinar Bjerkeset",
@@ -2643,7 +2643,7 @@
       },
       {
         "number": "1560",
-        "population": "1270",
+        "population": "3103",
         "area": "33691",
         "languageForm": "Nøytral",
         "mayor": "Peder Hanem Aasprang",
@@ -2652,7 +2652,7 @@
       },
       {
         "number": "1563",
-        "population": "3518",
+        "population": "7160",
         "area": "171344",
         "languageForm": "Nøytral",
         "mayor": "Ståle Refstie",
@@ -2661,7 +2661,7 @@
       },
       {
         "number": "1566",
-        "population": "9717",
+        "population": "5969",
         "area": "136526",
         "languageForm": "Nynorsk",
         "mayor": "Mons Otnes",
@@ -2670,7 +2670,7 @@
       },
       {
         "number": "1567",
-        "population": "3467",
+        "population": "2036",
         "area": "63236",
         "languageForm": "Nøytral",
         "mayor": "Ola T. Heggem",
@@ -2679,7 +2679,7 @@
       },
       {
         "number": "1571",
-        "population": "5826",
+        "population": "1547",
         "area": "30084",
         "languageForm": "Nøytral",
         "mayor": "Ola Rognskog",
@@ -2688,7 +2688,7 @@
       },
       {
         "number": "1573",
-        "population": "2593",
+        "population": "2141",
         "area": "28186",
         "languageForm": "Nøytral",
         "mayor": "Roger Osen",
@@ -2697,7 +2697,7 @@
       },
       {
         "number": "1576",
-        "population": "3103",
+        "population": "3526",
         "area": "64393",
         "languageForm": "Nøytral",
         "mayor": "Ingunn Oldervik Golmen",
@@ -3156,8 +3156,8 @@
         "population": "50488",
         "area": "139251",
         "languageForm": "Nøytral",
-        "mayor": "Ole-Henrik Hjartøy",
-        "politicalParty": "Høyre",
+        "mayor": "Ida Marie Pinnerød",
+        "politicalParty": "Ap",
         "name": "Bodø"
       },
       {
@@ -3620,8 +3620,8 @@
         "population": "4019",
         "area": "270396",
         "languageForm": "Nøytral",
-        "mayor": "Arne Nysted",
-        "politicalParty": "Ap",
+        "mayor": "Toralf Heimdal",
+        "politicalParty": "Sp",
         "name": "Bardu"
       },
       {
