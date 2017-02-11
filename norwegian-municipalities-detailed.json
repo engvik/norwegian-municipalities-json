@@ -1050,9 +1050,9 @@
         "name": "Tønsberg"
       },
       {
-        "number": "0706",
-        "population": "45820",
-        "area": "12107",
+        "number": "0710",
+        "population": "61218",
+        "area": "61014",
         "languageForm": "Bokmål",
         "mayor": "Bjørn Ole Gleditsch",
         "politicalParty": "Høyre",
@@ -1102,24 +1102,6 @@
         "mayor": "Thorvald Hillestad",
         "politicalParty": "Sp",
         "name": "Re"
-      },
-      {
-        "number": "0719",
-        "population": "5937",
-        "area": "18591",
-        "languageForm": "Bokmål",
-        "mayor": "Bjarne Sommerstad",
-        "politicalParty": "Sp",
-        "name": "Andebu"
-      },
-      {
-        "number": "0720",
-        "population": "11657",
-        "area": "11835",
-        "languageForm": "Bokmål",
-        "mayor": "Erlend Larsen",
-        "politicalParty": "Høyre",
-        "name": "Stokke"
       },
       {
         "number": "0722",
@@ -1176,8 +1158,8 @@
         "population": "12717",
         "area": "91891",
         "languageForm": "Nøytral",
-        "mayor": "Jørn Christensen",
-        "politicalParty": "Høyre",
+        "mayor": "Gry Fuglestveit Bløchlinger",
+        "politicalParty": "Ap",
         "name": "Notodden"
       },
       {
@@ -1722,8 +1704,8 @@
         "population": "1238",
         "area": "78020",
         "languageForm": "Nynorsk",
-        "mayor": "Ole Tom Guse",
-        "politicalParty": "KrF",
+        "mayor": "Bjarte Sveinsvoll Dagestad",
+        "politicalParty": "Høyre",
         "name": "Forsand"
       },
       {
@@ -2353,8 +2335,8 @@
         "population": "1200",
         "area": "19160",
         "languageForm": "Nynorsk",
-        "mayor": "Anne-Britt Øen Nygård",
-        "politicalParty": "Sp",
+        "mayor": "Stig Olav Lødemel",
+        "politicalParty": "Høyre",
         "name": "Hornindal"
       },
       {
@@ -2786,7 +2768,7 @@
         "population": "4779",
         "area": "38377",
         "languageForm": "Bokmål",
-        "mayor": "Arnfinn Astad",
+        "mayor": "Ogne Undertun",
         "politicalParty": "Ap",
         "name": "Bjugn"
       },
@@ -2804,8 +2786,8 @@
         "population": "961",
         "area": "37527",
         "languageForm": "Nøytral",
-        "mayor": "Jan Helge Grydeland",
-        "politicalParty": "Sp",
+        "mayor": "Einar Eian",
+        "politicalParty": "Høyre",
         "name": "Roan"
       },
       {
@@ -2813,8 +2795,8 @@
         "population": "976",
         "area": "38733",
         "languageForm": "Bokmål",
-        "mayor": "Jørn Nordmeland",
-        "politicalParty": "Venstre",
+        "mayor": "John Einar Høvik",
+        "politicalParty": "Ap",
         "name": "Osen"
       },
       {
